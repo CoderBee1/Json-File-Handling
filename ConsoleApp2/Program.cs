@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             string path = "E:\\prod\\";
 
             //string path = "C:\\MyFolde";
+            //done
 
 
 
